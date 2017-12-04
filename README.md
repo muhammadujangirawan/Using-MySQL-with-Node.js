@@ -1,5 +1,5 @@
 # Using-MySQL-with-Node.js and Express Framework
-This source code is an example of using MySQL for Node.js.
+This source code is an example of using MySQL for Node.js with Express Framework.
 
 ## Running Application
 Run npm start command on the Node.js command prompt then see the logs that appear on the command prompt Node.js. 
