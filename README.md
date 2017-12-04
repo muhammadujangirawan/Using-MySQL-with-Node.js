@@ -9,7 +9,6 @@ Run npm start command on the Node.js command prompt then see the logs that appea
 If successful connect it will display Connection established if failed connect will display Error connecting to Db
 
 Sample Connection
-
 <pre>
 <code>
 // connection to MySQL Database
