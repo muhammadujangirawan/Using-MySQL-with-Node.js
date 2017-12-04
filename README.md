@@ -10,7 +10,8 @@ If successful connect it will display Connection established if failed connect w
 
 Sample Connection
 
-<script>
+<pre>
+<code>
 // connection to MySQL Database
 const con = mysql.createConnection({
   host: 'localhost',
@@ -26,4 +27,5 @@ con.connect((err) => {
   }
   console.log('Connection established');
 });
-</script>
+</pre>
+</code>
